@@ -18,7 +18,7 @@ endif ()
 # Common configuration
 #------------------------------------------------------------------------------
 #set(CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/Source/cmake")
-include(WebKitCommon)
+#include(WebKitCommon)
 
 # -----------------------------------------------------------------------------
 # Enable API unit tests and create a target for the test runner
